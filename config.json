@@ -1,12 +1,8 @@
 {
     "alerts": [
         {
-            "pet_name": "(MFR) Giant panda",
-            "target_price": 179.0
-        },
-        {
             "pet_name": "(M) Haetae",
-            "target_price": 260.0
+            "target_price": 275.0
         }
     ]
 }
